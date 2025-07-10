@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atiq-umer-897775305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atiq-umer-897775305" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/atiq-umer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1DGQ2vR4Bc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1dgq2vr4bc/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mianatiq15?igsh=YmdybmtwNjdka3o3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mianatiq15?igsh=ymdybmtwnjdka3o3" height="30" width="40" /></a>
 </p>
