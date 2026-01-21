@@ -63,7 +63,3 @@ The foundation of my work:
 ### 🏆 GitHub Stats
 
 [![Atiq Umer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atiqumer&show_icons=true&theme=onedark&hide_border=true&count_private=true)](https://github.com/atiqumer)
-
-### 🔥 Streak & Consistency
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=atiqumer&theme=dark&hide_border=true)](https://git.io/streak-stats)
