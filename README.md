@@ -1,65 +1,75 @@
-### 👋 I'm Atiq Umer
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Dedicated+Full-Stack+Developer;Expert+in+React.js,+Django,+Python;Always+Learning+New+Tech)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Atiq%20Umer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React.js%20%C3%97%20Django%20%C3%97%20AI%20Integration&descAlignY=58&descSize=18" width="100%"/>
 
-As an individual committed to continuous growth and expertise (in line with my professional ethos), I focus on building robust, scalable applications using modern technologies.
-
----
-
-### 💻 Core Focus & Active Projects
-
-My current work centers on leveraging the synergy between frontend and backend technologies to deliver high-quality solutions.
-
-| Area | Technologies |
-| :--- | :--- |
-| **Current Development** | **React.js, Django, Python** (Building integrated, full-stack systems) |
-| **Active Skill Expansion** | React.js, Tailwind CSS (Mastering modern responsive UI/UX design) |
-| **Established Expertise** | C++, WordPress, MySQL, Django (Ready to support projects utilizing these foundations) |
-
----
-
-### 🌐 Connect & Collaborate
-
-I am always keen to discuss challenging technical problems, explore collaborative coding opportunities, or engage in meaningful exchanges about technology.
-
-* **Email:** atiqumer15@gmail.com
-
-<p align="left">
-<a href="https://www.linkedin.com/in/atiq-umer/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+with+React+%2B+Django;Exploring+AI+Agent+Integration;Computer+Vision+%26+Machine+Learning+enthusiast" alt="Typing SVG" />
 </a>
-<a href="https://www.facebook.com/share/1DGQ2vR4Bc/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/mianatiq15?igsh=YmdybmtwNjdka3o3" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-</p>
 
----
+<br/>
 
-### 🛠️ Languages and Tools
+<a href="mailto:atiqumer15@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="36" height="36"/></a>
+<a href="https://www.linkedin.com/in/atiq-umer/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36"/></a>
+<a href="https://www.instagram.com/mianatiq15?igsh=YmdybmtwNjdka3o3" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="36" height="36"/></a>
 
-The foundation of my work:
+<br/><br/>
 
-<p align="center">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=atiqumer&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS)](https://github.com/atiqumer)
 
----
+</div>
 
-### 📊 GitHub Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atiqumer&show_icons=true&locale=en&layout=compact" alt="atiqumer" /></p>
+## Tech Stack
 
-### 🏆 GitHub Stats
+<div align="center">
 
-[![Atiq Umer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atiqumer&show_icons=true&theme=onedark&hide_border=true&count_private=true)](https://github.com/atiqumer)
+<img src="https://skillicons.dev/icons?i=react,tailwind,django,flask,python,js,mysql,postgres,git,aws&theme=dark" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%"/>
+
+## AI, ML & Computer Vision
+
+- **Core:** Machine Learning · Computer Vision · Scikit-learn · Pandas · NumPy · MediaPipe · DNNs
+- **Certifications:** ChatGPT Prompt Engineering for Developers (DeepLearning.AI) · AI Python for Beginners (DeepLearning.AI) · Start Writing Prompts like a Pro (Google)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%"/>
+
+## Featured Projects
+
+**VoxaSign** — `JavaScript` `TensorFlow.js` `MediaPipe` `Python`
+
+**Neural Hire** — `React.js` `Django` `Tailwind CSS` `JWT`
+
+**AI Virtual Mouse** — `Python` `OpenCV` `MediaPipe` `PyAutoGUI`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%"/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=atiqumer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=atiqumer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="165"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%"/>
+
+<div align="center">
+
+## Let's Work Together
+
+I'm open to freelance work, collaborations, and full-stack + AI-integration opportunities.
+
+<a href="mailto:atiqumer15@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="36" height="36"/></a>
+<a href="https://www.linkedin.com/in/atiq-umer/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36"/></a>
+<a href="https://www.instagram.com/mianatiq15?igsh=YmdybmtwNjdka3o3" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="36" height="36"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+
+</div>
